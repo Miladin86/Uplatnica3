@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="309,164,0,0" VerticalAlignment="Top" Width="137" RenderTransformOrigin="0.493,0.565" Height="72"/>
-
+        <Label Content="Uplatilac" HorizontalAlignment="Left" Margin="44,42,0,0" VerticalAlignment="Top" Width="89" Height="29"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="44,71,0,0" TextWrapping="Wrap" Text="Miladin Tomic" TextAlignment="Center" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Svrha uplate"  HorizontalAlignment="Left" Margin="44,125,0,0" VerticalAlignment="Top" Width="120" Height="28"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="44,158,0,0" TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.49,0.303"/>
     </Grid>
 </Window>
